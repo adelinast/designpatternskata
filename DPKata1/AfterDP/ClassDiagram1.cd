@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DPKata1.NonBondStrategy">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AfterDP\NonBondStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPKata1.BondStrategy">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AfterDP\BondStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPKata1.StrategyAccrContext">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAQACAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AfterDP\StrategyAccrContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPKata1.StrategyAccr">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AfterDP\Strategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPKata1.FeeData">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAgAAAACAAAAAAAAAhAAAAAAAA=</HashCode>
+      <FileName>AfterDP\FeeData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPKata1.BondPDFRedemptionStrategy" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AfterDP\BondPDFRedemptionStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPKata1.BondNonPDFStrategy" Collapsed="true">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AfterDP\BondNonPDFStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPKata1.BondPDFStrategy" Collapsed="true">
+    <Position X="2.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AfterDP\BondPDFStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DPKata1.StrategyTradeType">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>AfterDP\StrategyTradeType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
